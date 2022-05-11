@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
+
+  root "general#home"
   devise_for :users
-  resources :post_tags
   resources :tags
   resources :comments
   resources :posts
