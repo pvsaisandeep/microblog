@@ -23,6 +23,8 @@ Things you may want to cover:
 * To access, Development database
   Run `rails c or rails db`
 
+Notes:
+
  * Inorder to get styling like grid and navigator bar etc using bootstrap
 
 
