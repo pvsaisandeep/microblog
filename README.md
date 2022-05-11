@@ -23,11 +23,11 @@ Things you may want to cover:
 * To access, Development database
   Run `rails c or rails db`
 
- # Inorder to get styling like grid and navigator bar etc using bootstrap
+ * Inorder to get styling like grid and navigator bar etc using bootstrap
 
 
- ## Estimated time for project : 12 hrs
- ## Time spent as on 12-May 01:00 AM: 4 hrs
+ * Estimated time for project : 12 hrs
+ * Time spent as on 12-May 01:00 AM: 4 hrs
 
- # Completed: Implemented tables, schema, created models and controllers, relation between models
- # Pending part is task: Actual pages to show to posts and access data. 
+ * Completed: Implemented tables, schema, created models and controllers, relation between models
+ * Pending part is task: Actual pages to show to posts and access data. 
